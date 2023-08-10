@@ -1,0 +1,40 @@
+name = input("What is your name?")
+greeting = "Hello " + name + ", how are you doing?"
+print (greeting)
+print ('''today you are going to tell me about you.
+then in the end, a personal essay will be written about you.
+give me good anwsers, so a good essay will be written.''')
+age = input("How old are you?")
+color = input("What is your favorite color?")
+Hobbies = input("What are your hobbies?")
+Family_Members = input("How many people are in your family?")
+grade = input("What grade are you in?")
+Location = input("What city do you live in?")
+travel_favs = input("Where do you  want to go on vacation?")
+Friends = input("Who is your best friend?")
+Adjectives = input("What are five words to describe yourself?")
+country = input("where is your homecountry?")
+extra = input("what else should I know about you?")
+print ("LOADING......................... LOADING..............................LOADING")
+print ("Essay printing")
+print ('''All about me.
+  Hello everyone, my name is ''' + name + ''' and am ''' + age + ''' years old.
+I have. ''' + Family_Members + ''' people in my family and they are awesome.
+my favorite color is ''' + color + ''', and am in ''' + grade +''' grade. In my 
+free time, I like to do/play ''' + Hobbies + ''', because they are incredibly
+fun.
+  I live in ''' + Location + ''', and usually hang out with my best friend 
+''' + Friends + '''. He/she is a great friend to play with.
+  My homecountry is ''' + country + ''', but my favorite place to go to vacation
+is ''' + travel_favs + ''', it is a rather intresting and fun place to go.
+
+
+
+
+
+
+
+
+
+
+
